@@ -1,0 +1,14 @@
+{
+  "name": "mabinogi-portrait-widget",
+  "version": "1.0.0",
+  "description": "마비노기 포트레이트 데스크탑 위젯 (Electron)",
+  "private": true,
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "check": "electron . --selftest"
+  },
+  "devDependencies": {
+    "electron": "^44.9.0"
+  }
+}
